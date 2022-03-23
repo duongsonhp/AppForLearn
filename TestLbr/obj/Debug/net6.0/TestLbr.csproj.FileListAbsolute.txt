@@ -1,0 +1,12 @@
+D:\Users\duong\source\repos\AppForLearn\TestLbr\bin\Debug\net6.0\TestLbr.deps.json
+D:\Users\duong\source\repos\AppForLearn\TestLbr\bin\Debug\net6.0\TestLbr.dll
+D:\Users\duong\source\repos\AppForLearn\TestLbr\bin\Debug\net6.0\TestLbr.pdb
+D:\Users\duong\source\repos\AppForLearn\TestLbr\obj\Debug\net6.0\TestLbr.csproj.AssemblyReference.cache
+D:\Users\duong\source\repos\AppForLearn\TestLbr\obj\Debug\net6.0\TestLbr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\duong\source\repos\AppForLearn\TestLbr\obj\Debug\net6.0\TestLbr.AssemblyInfoInputs.cache
+D:\Users\duong\source\repos\AppForLearn\TestLbr\obj\Debug\net6.0\TestLbr.AssemblyInfo.cs
+D:\Users\duong\source\repos\AppForLearn\TestLbr\obj\Debug\net6.0\TestLbr.csproj.CoreCompileInputs.cache
+D:\Users\duong\source\repos\AppForLearn\TestLbr\obj\Debug\net6.0\TestLbr.dll
+D:\Users\duong\source\repos\AppForLearn\TestLbr\obj\Debug\net6.0\refint\TestLbr.dll
+D:\Users\duong\source\repos\AppForLearn\TestLbr\obj\Debug\net6.0\TestLbr.pdb
+D:\Users\duong\source\repos\AppForLearn\TestLbr\obj\Debug\net6.0\ref\TestLbr.dll

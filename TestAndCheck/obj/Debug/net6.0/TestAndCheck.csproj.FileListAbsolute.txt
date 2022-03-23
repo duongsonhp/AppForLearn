@@ -1,0 +1,12 @@
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\bin\Debug\net6.0\TestAndCheck.deps.json
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\bin\Debug\net6.0\TestAndCheck.dll
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\bin\Debug\net6.0\TestAndCheck.pdb
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\obj\Debug\net6.0\TestAndCheck.csproj.AssemblyReference.cache
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\obj\Debug\net6.0\TestAndCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\obj\Debug\net6.0\TestAndCheck.AssemblyInfoInputs.cache
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\obj\Debug\net6.0\TestAndCheck.AssemblyInfo.cs
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\obj\Debug\net6.0\TestAndCheck.csproj.CoreCompileInputs.cache
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\obj\Debug\net6.0\TestAndCheck.dll
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\obj\Debug\net6.0\refint\TestAndCheck.dll
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\obj\Debug\net6.0\TestAndCheck.pdb
+D:\Users\duong\source\repos\AppForLearn\TestAndCheck\obj\Debug\net6.0\ref\TestAndCheck.dll
